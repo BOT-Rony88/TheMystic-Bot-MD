@@ -7,11 +7,11 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = ""
-global.confirmCode = ""
+global.botnumber = "https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6"
+global.confirmCode = "https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6"
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
+  ['+50370536621', '👑 Mystic - Creador 👑', true],
   ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
   ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
@@ -43,8 +43,8 @@ global.owner = [
   ['5492215034412']
 ];
 
-global.suittag = ['5219993404349'];
-global.prems = ['51995386439'];
+global.suittag = ['50370536621'];
+global.prems = ['+50370536621'];
 
 global.packname = 'Sticker';
 global.author = 'The Mystic - Bot';
@@ -65,7 +65,7 @@ global.imagen8 = fs.readFileSync('./src/menu_fr.png')
 global.imagen9 = fs.readFileSync('./src/menu_en.png')
 global.imagen10 = fs.readFileSync('./src/menu_ru.png')
 
-global.mods = [];
+global.mods ="https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6" 
 
 //* *******Tiempo***************
 global.d = new Date(new Date + 3600000);
